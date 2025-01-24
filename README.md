@@ -1,2 +1,2 @@
-# publishing-wiki
-Sample wiki for course on publishing apps and sites.
+# README
+This is the README file for course on publishing apps and sites.
